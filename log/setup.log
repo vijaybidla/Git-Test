@@ -1,0 +1,139 @@
+2011/06/21 23:12:13 Starting cygwin install, version 2.738
+2011/06/21 23:12:13 io_stream_cygfile: fopen(/etc/setup/setup.rc) failed 2 No such file or directory
+2011/06/21 23:12:13 io_stream_cygfile: fopen(/etc/setup/last-cache) failed 2 No such file or directory
+2011/06/21 23:12:13 io_stream_cygfile: fopen(/etc/setup/last-action) failed 2 No such file or directory
+2011/06/21 23:12:13 io_stream_cygfile: fopen(/etc/setup/net-method) failed 2 No such file or directory
+2011/06/21 23:12:13 io_stream_cygfile: fopen(/etc/setup/net-proxy-host) failed 2 No such file or directory
+2011/06/21 23:12:13 io_stream_cygfile: fopen(/etc/setup/net-proxy-port) failed 2 No such file or directory
+2011/06/21 23:12:13 io_stream_cygfile: fopen(/etc/setup/last-mirror) failed 2 No such file or directory
+2011/06/21 23:12:13 io_stream_cygfile: fopen(/etc/setup/extrakeys) failed 2 No such file or directory
+2011/06/21 23:12:13 io_stream_cygfile: fopen(/etc/setup/chooser_window_settings) failed 2 No such file or directory
+2011/06/21 23:12:13 Current Directory: C:\Program Files\Mozilla Firefox
+2011/06/21 23:12:13 User has NO backup/restore rights
+2011/06/21 23:12:13 Changing gid to Administrators
+2011/06/21 23:12:13 Could not open Service control manager
+2011/06/21 23:12:35 source: network install
+2011/06/21 23:12:50 mbox yesno: Warning: we recommend you do not use the root of your hard drive as the cygwin root, to prevent possible conflicts with other programs.  Proceed anyway?
+2011/06/21 23:13:04 root: D:\git binary system
+2011/06/21 23:13:05 Selected local directory: C:\Program Files\Mozilla Firefox
+2011/06/21 23:13:06 net: Direct
+2011/06/21 23:13:06 io_stream_cygfile: fopen(/etc/setup/mirrors-lst) failed 2 No such file or directory
+2011/06/21 23:14:05 site: http://cygwin.mirrors.hoobly.com/
+2011/06/21 23:14:22 io_stream_cygfile: fopen(/etc/setup/installed.db) failed 2 No such file or directory
+2011/06/21 23:14:23 io_stream_cygfile: fopen(/etc/setup/timestamp) failed 2 No such file or directory
+2011/06/21 23:14:24 io_stream_cygfile: fopen(/etc/setup/new-cygwin-version) failed 2 No such file or directory
+2011/06/21 23:14:39 Downloaded C:\Program Files\Mozilla Firefox/http%3a%2f%2fcygwin.mirrors.hoobly.com%2f/release/_update-info-dir/_update-info-dir-00964-1.tar.bz2
+2011/06/21 23:14:45 Downloaded C:\Program Files\Mozilla Firefox/http%3a%2f%2fcygwin.mirrors.hoobly.com%2f/release/alternatives/alternatives-1.3.30c-10.tar.bz2
+2011/06/21 23:14:46 Downloaded C:\Program Files\Mozilla Firefox/http%3a%2f%2fcygwin.mirrors.hoobly.com%2f/release/base-cygwin/base-cygwin-3.0-1.tar.bz2
+2011/06/21 23:14:51 Downloaded C:\Program Files\Mozilla Firefox/http%3a%2f%2fcygwin.mirrors.hoobly.com%2f/release/base-files/base-files-4.0-6.tar.bz2
+2011/06/21 23:15:30 Downloaded C:\Program Files\Mozilla Firefox/http%3a%2f%2fcygwin.mirrors.hoobly.com%2f/release/bash/bash-4.1.10-4.tar.bz2
+2011/06/21 23:15:47 Downloaded C:\Program Files\Mozilla Firefox/http%3a%2f%2fcygwin.mirrors.hoobly.com%2f/release/bzip2/bzip2-1.0.6-2.tar.bz2
+2011/06/21 23:17:29 Downloaded C:\Program Files\Mozilla Firefox/http%3a%2f%2fcygwin.mirrors.hoobly.com%2f/release/coreutils/coreutils-8.10-1.tar.bz2
+2011/06/21 23:18:14 Downloaded C:\Program Files\Mozilla Firefox/http%3a%2f%2fcygwin.mirrors.hoobly.com%2f/release/cygutils/cygutils-1.4.6-1.tar.bz2
+2011/06/21 23:19:04 Downloaded C:\Program Files\Mozilla Firefox/http%3a%2f%2fcygwin.mirrors.hoobly.com%2f/release/cygwin/cygwin-1.7.9-1.tar.bz2
+2011/06/21 23:19:19 Downloaded C:\Program Files\Mozilla Firefox/http%3a%2f%2fcygwin.mirrors.hoobly.com%2f/release/cygwin-doc/cygwin-doc-1.7-1.tar.bz2
+2011/06/21 23:19:24 Downloaded C:\Program Files\Mozilla Firefox/http%3a%2f%2fcygwin.mirrors.hoobly.com%2f/release/dash/dash-0.5.6.1-2.tar.bz2
+2011/06/21 23:19:35 Downloaded C:\Program Files\Mozilla Firefox/http%3a%2f%2fcygwin.mirrors.hoobly.com%2f/release/diffutils/diffutils-2.9-1.tar.bz2
+2011/06/21 23:19:41 Downloaded C:\Program Files\Mozilla Firefox/http%3a%2f%2fcygwin.mirrors.hoobly.com%2f/release/dos2unix/dos2unix-5.3-1.tar.bz2
+2011/06/21 23:19:52 Downloaded C:\Program Files\Mozilla Firefox/http%3a%2f%2fcygwin.mirrors.hoobly.com%2f/release/editrights/editrights-1.01-2.tar.bz2
+2011/06/21 23:20:16 Downloaded C:\Program Files\Mozilla Firefox/http%3a%2f%2fcygwin.mirrors.hoobly.com%2f/release/findutils/findutils-4.5.9-2.tar.bz2
+2011/06/21 23:20:38 Downloaded C:\Program Files\Mozilla Firefox/http%3a%2f%2fcygwin.mirrors.hoobly.com%2f/release/gawk/gawk-3.1.8-1.tar.bz2
+2011/06/21 23:20:50 Downloaded C:\Program Files\Mozilla Firefox/http%3a%2f%2fcygwin.mirrors.hoobly.com%2f/release/gettext/gettext-0.17-11.tar.bz2
+2011/06/21 23:21:03 Downloaded C:\Program Files\Mozilla Firefox/http%3a%2f%2fcygwin.mirrors.hoobly.com%2f/release/grep/grep-2.6.3-1.tar.bz2
+2011/06/21 23:23:48 Downloaded C:\Program Files\Mozilla Firefox/http%3a%2f%2fcygwin.mirrors.hoobly.com%2f/release/groff/groff-1.20.1-2.tar.bz2
+2011/06/21 23:23:56 Downloaded C:\Program Files\Mozilla Firefox/http%3a%2f%2fcygwin.mirrors.hoobly.com%2f/release/gzip/gzip-1.4-1.tar.bz2
+2011/06/21 23:23:58 Downloaded C:\Program Files\Mozilla Firefox/http%3a%2f%2fcygwin.mirrors.hoobly.com%2f/release/ipc-utils/ipc-utils-1.0-1.tar.bz2
+2011/06/21 23:24:08 Downloaded C:\Program Files\Mozilla Firefox/http%3a%2f%2fcygwin.mirrors.hoobly.com%2f/release/less/less-436-1.tar.bz2
+2011/06/21 23:24:11 Downloaded C:\Program Files\Mozilla Firefox/http%3a%2f%2fcygwin.mirrors.hoobly.com%2f/release/attr/libattr1/libattr1-2.4.43-1.tar.bz2
+2011/06/21 23:24:15 Downloaded C:\Program Files\Mozilla Firefox/http%3a%2f%2fcygwin.mirrors.hoobly.com%2f/release/bzip2/libbz2_1/libbz2_1-1.0.6-2.tar.bz2
+2011/06/21 23:24:19 Downloaded C:\Program Files\Mozilla Firefox/http%3a%2f%2fcygwin.mirrors.hoobly.com%2f/release/gcc4/libgcc1/libgcc1-4.3.4-4.tar.bz2
+2011/06/21 23:24:51 Downloaded C:\Program Files\Mozilla Firefox/http%3a%2f%2fcygwin.mirrors.hoobly.com%2f/release/gmp/libgmp3/libgmp3-4.3.1-3.tar.bz2
+2011/06/21 23:25:24 Downloaded C:\Program Files\Mozilla Firefox/http%3a%2f%2fcygwin.mirrors.hoobly.com%2f/release/libiconv/libiconv2/libiconv2-1.13.1-2.tar.bz2
+2011/06/21 23:25:28 Downloaded C:\Program Files\Mozilla Firefox/http%3a%2f%2fcygwin.mirrors.hoobly.com%2f/release/gettext/libintl8/libintl8-0.17-11.tar.bz2
+2011/06/21 23:25:36 Downloaded C:\Program Files\Mozilla Firefox/http%3a%2f%2fcygwin.mirrors.hoobly.com%2f/release/xz/liblzma5/liblzma5-5.0.2_20110517-1.tar.bz2
+2011/06/21 23:25:47 Downloaded C:\Program Files\Mozilla Firefox/http%3a%2f%2fcygwin.mirrors.hoobly.com%2f/release/ncurses/libncurses10/libncurses10-5.7-18.tar.bz2
+2011/06/21 23:26:04 Downloaded C:\Program Files\Mozilla Firefox/http%3a%2f%2fcygwin.mirrors.hoobly.com%2f/release/ncurses/libncurses8/libncurses8-5.5-10.tar.bz2
+2011/06/21 23:26:20 Downloaded C:\Program Files\Mozilla Firefox/http%3a%2f%2fcygwin.mirrors.hoobly.com%2f/release/ncursesw/libncursesw10/libncursesw10-5.7-18.tar.bz2
+2011/06/21 23:26:47 Downloaded C:\Program Files\Mozilla Firefox/http%3a%2f%2fcygwin.mirrors.hoobly.com%2f/release/pcre/libpcre0/libpcre0-8.02-1.tar.bz2
+2011/06/21 23:26:51 Downloaded C:\Program Files\Mozilla Firefox/http%3a%2f%2fcygwin.mirrors.hoobly.com%2f/release/popt/libpopt0/libpopt0-1.6.4-4.tar.bz2
+2011/06/21 23:27:02 Downloaded C:\Program Files\Mozilla Firefox/http%3a%2f%2fcygwin.mirrors.hoobly.com%2f/release/readline/libreadline7/libreadline7-6.1.2-2.tar.bz2
+2011/06/21 23:27:04 Downloaded C:\Program Files\Mozilla Firefox/http%3a%2f%2fcygwin.mirrors.hoobly.com%2f/release/libsigsegv/libsigsegv2/libsigsegv2-2.10-1.tar.bz2
+2011/06/21 23:27:20 Downloaded C:\Program Files\Mozilla Firefox/http%3a%2f%2fcygwin.mirrors.hoobly.com%2f/release/gcc4/libstdc++6/libstdc++6-4.3.4-4.tar.bz2
+2011/06/21 23:27:24 Downloaded C:\Program Files\Mozilla Firefox/http%3a%2f%2fcygwin.mirrors.hoobly.com%2f/release/login/login-1.10-10.tar.bz2
+2011/06/21 23:27:53 Downloaded C:\Program Files\Mozilla Firefox/http%3a%2f%2fcygwin.mirrors.hoobly.com%2f/release/man/man-1.6f-1.tar.bz2
+2011/06/21 23:28:14 Downloaded C:\Program Files\Mozilla Firefox/http%3a%2f%2fcygwin.mirrors.hoobly.com%2f/release/rebase/rebase-3.0.1-1.tar.bz2
+2011/06/21 23:28:19 Downloaded C:\Program Files\Mozilla Firefox/http%3a%2f%2fcygwin.mirrors.hoobly.com%2f/release/run/run-1.1.13-1.tar.bz2
+2011/06/21 23:28:32 Downloaded C:\Program Files\Mozilla Firefox/http%3a%2f%2fcygwin.mirrors.hoobly.com%2f/release/sed/sed-4.2.1-1.tar.bz2
+2011/06/21 23:29:46 Downloaded C:\Program Files\Mozilla Firefox/http%3a%2f%2fcygwin.mirrors.hoobly.com%2f/release/tar/tar-1.25-1.tar.bz2
+2011/06/21 23:29:51 Downloaded C:\Program Files\Mozilla Firefox/http%3a%2f%2fcygwin.mirrors.hoobly.com%2f/release/terminfo/terminfo-5.7_20091114-14.tar.bz2
+2011/06/21 23:29:57 Downloaded C:\Program Files\Mozilla Firefox/http%3a%2f%2fcygwin.mirrors.hoobly.com%2f/release/terminfo/terminfo0/terminfo0-5.5_20061104-12.tar.bz2
+2011/06/21 23:30:24 Downloaded C:\Program Files\Mozilla Firefox/http%3a%2f%2fcygwin.mirrors.hoobly.com%2f/release/texinfo/texinfo-4.13-3.tar.bz2
+2011/06/21 23:31:32 Downloaded C:\Program Files\Mozilla Firefox/http%3a%2f%2fcygwin.mirrors.hoobly.com%2f/release/tzcode/tzcode-2010j-1.tar.bz2
+2011/06/21 23:31:38 Downloaded C:\Program Files\Mozilla Firefox/http%3a%2f%2fcygwin.mirrors.hoobly.com%2f/release/which/which-2.20-2.tar.bz2
+2011/06/21 23:32:15 Downloaded C:\Program Files\Mozilla Firefox/http%3a%2f%2fcygwin.mirrors.hoobly.com%2f/release/xz/xz-5.0.2_20110517-1.tar.bz2
+2011/06/21 23:32:36 mbox yesno: Download Incomplete.  Try again?
+2011/06/21 23:32:53 site: http://cygwin.mirrors.hoobly.com/
+2011/06/21 23:35:35 Downloaded C:\Program Files\Mozilla Firefox/http%3a%2f%2fcygwin.mirrors.hoobly.com%2f/release/zlib/zlib0/zlib0-1.2.5-1.tar.bz2
+2011/06/21 23:35:35 Extracting from file://C:\Program Files\Mozilla Firefox/http%3a%2f%2fcygwin.mirrors.hoobly.com%2f/release/_update-info-dir/_update-info-dir-00964-1.tar.bz2
+2011/06/21 23:35:35 Extracting from file://C:\Program Files\Mozilla Firefox/http%3a%2f%2fcygwin.mirrors.hoobly.com%2f/release/alternatives/alternatives-1.3.30c-10.tar.bz2
+2011/06/21 23:35:36 Extracting from file://C:\Program Files\Mozilla Firefox/http%3a%2f%2fcygwin.mirrors.hoobly.com%2f/release/base-cygwin/base-cygwin-3.0-1.tar.bz2
+2011/06/21 23:35:36 Extracting from file://C:\Program Files\Mozilla Firefox/http%3a%2f%2fcygwin.mirrors.hoobly.com%2f/release/base-files/base-files-4.0-6.tar.bz2
+2011/06/21 23:35:36 Extracting from file://C:\Program Files\Mozilla Firefox/http%3a%2f%2fcygwin.mirrors.hoobly.com%2f/release/bash/bash-4.1.10-4.tar.bz2
+2011/06/21 23:35:37 Extracting from file://C:\Program Files\Mozilla Firefox/http%3a%2f%2fcygwin.mirrors.hoobly.com%2f/release/bzip2/bzip2-1.0.6-2.tar.bz2
+2011/06/21 23:35:38 Extracting from file://C:\Program Files\Mozilla Firefox/http%3a%2f%2fcygwin.mirrors.hoobly.com%2f/release/coreutils/coreutils-8.10-1.tar.bz2
+2011/06/21 23:35:45 Extracting from file://C:\Program Files\Mozilla Firefox/http%3a%2f%2fcygwin.mirrors.hoobly.com%2f/release/cygutils/cygutils-1.4.6-1.tar.bz2
+2011/06/21 23:35:46 Extracting from file://C:\Program Files\Mozilla Firefox/http%3a%2f%2fcygwin.mirrors.hoobly.com%2f/release/cygwin/cygwin-1.7.9-1.tar.bz2
+2011/06/21 23:35:49 Extracting from file://C:\Program Files\Mozilla Firefox/http%3a%2f%2fcygwin.mirrors.hoobly.com%2f/release/cygwin-doc/cygwin-doc-1.7-1.tar.bz2
+2011/06/21 23:35:51 Extracting from file://C:\Program Files\Mozilla Firefox/http%3a%2f%2fcygwin.mirrors.hoobly.com%2f/release/dash/dash-0.5.6.1-2.tar.bz2
+2011/06/21 23:35:51 Extracting from file://C:\Program Files\Mozilla Firefox/http%3a%2f%2fcygwin.mirrors.hoobly.com%2f/release/diffutils/diffutils-2.9-1.tar.bz2
+2011/06/21 23:35:52 Extracting from file://C:\Program Files\Mozilla Firefox/http%3a%2f%2fcygwin.mirrors.hoobly.com%2f/release/dos2unix/dos2unix-5.3-1.tar.bz2
+2011/06/21 23:35:52 Extracting from file://C:\Program Files\Mozilla Firefox/http%3a%2f%2fcygwin.mirrors.hoobly.com%2f/release/editrights/editrights-1.01-2.tar.bz2
+2011/06/21 23:35:52 Extracting from file://C:\Program Files\Mozilla Firefox/http%3a%2f%2fcygwin.mirrors.hoobly.com%2f/release/findutils/findutils-4.5.9-2.tar.bz2
+2011/06/21 23:35:53 Extracting from file://C:\Program Files\Mozilla Firefox/http%3a%2f%2fcygwin.mirrors.hoobly.com%2f/release/gawk/gawk-3.1.8-1.tar.bz2
+2011/06/21 23:35:54 Extracting from file://C:\Program Files\Mozilla Firefox/http%3a%2f%2fcygwin.mirrors.hoobly.com%2f/release/gettext/gettext-0.17-11.tar.bz2
+2011/06/21 23:35:55 Extracting from file://C:\Program Files\Mozilla Firefox/http%3a%2f%2fcygwin.mirrors.hoobly.com%2f/release/grep/grep-2.6.3-1.tar.bz2
+2011/06/21 23:35:55 Extracting from file://C:\Program Files\Mozilla Firefox/http%3a%2f%2fcygwin.mirrors.hoobly.com%2f/release/groff/groff-1.20.1-2.tar.bz2
+2011/06/21 23:36:08 Extracting from file://C:\Program Files\Mozilla Firefox/http%3a%2f%2fcygwin.mirrors.hoobly.com%2f/release/gzip/gzip-1.4-1.tar.bz2
+2011/06/21 23:36:08 Extracting from file://C:\Program Files\Mozilla Firefox/http%3a%2f%2fcygwin.mirrors.hoobly.com%2f/release/ipc-utils/ipc-utils-1.0-1.tar.bz2
+2011/06/21 23:36:08 Extracting from file://C:\Program Files\Mozilla Firefox/http%3a%2f%2fcygwin.mirrors.hoobly.com%2f/release/less/less-436-1.tar.bz2
+2011/06/21 23:36:08 Extracting from file://C:\Program Files\Mozilla Firefox/http%3a%2f%2fcygwin.mirrors.hoobly.com%2f/release/attr/libattr1/libattr1-2.4.43-1.tar.bz2
+2011/06/21 23:36:09 Extracting from file://C:\Program Files\Mozilla Firefox/http%3a%2f%2fcygwin.mirrors.hoobly.com%2f/release/bzip2/libbz2_1/libbz2_1-1.0.6-2.tar.bz2
+2011/06/21 23:36:09 Extracting from file://C:\Program Files\Mozilla Firefox/http%3a%2f%2fcygwin.mirrors.hoobly.com%2f/release/gcc4/libgcc1/libgcc1-4.3.4-4.tar.bz2
+2011/06/21 23:36:09 Extracting from file://C:\Program Files\Mozilla Firefox/http%3a%2f%2fcygwin.mirrors.hoobly.com%2f/release/gmp/libgmp3/libgmp3-4.3.1-3.tar.bz2
+2011/06/21 23:36:09 Extracting from file://C:\Program Files\Mozilla Firefox/http%3a%2f%2fcygwin.mirrors.hoobly.com%2f/release/libiconv/libiconv2/libiconv2-1.13.1-2.tar.bz2
+2011/06/21 23:36:09 Extracting from file://C:\Program Files\Mozilla Firefox/http%3a%2f%2fcygwin.mirrors.hoobly.com%2f/release/gettext/libintl8/libintl8-0.17-11.tar.bz2
+2011/06/21 23:36:09 Extracting from file://C:\Program Files\Mozilla Firefox/http%3a%2f%2fcygwin.mirrors.hoobly.com%2f/release/xz/liblzma5/liblzma5-5.0.2_20110517-1.tar.bz2
+2011/06/21 23:36:09 Extracting from file://C:\Program Files\Mozilla Firefox/http%3a%2f%2fcygwin.mirrors.hoobly.com%2f/release/ncurses/libncurses10/libncurses10-5.7-18.tar.bz2
+2011/06/21 23:36:09 Extracting from file://C:\Program Files\Mozilla Firefox/http%3a%2f%2fcygwin.mirrors.hoobly.com%2f/release/ncurses/libncurses8/libncurses8-5.5-10.tar.bz2
+2011/06/21 23:36:10 Extracting from file://C:\Program Files\Mozilla Firefox/http%3a%2f%2fcygwin.mirrors.hoobly.com%2f/release/ncursesw/libncursesw10/libncursesw10-5.7-18.tar.bz2
+2011/06/21 23:36:10 Extracting from file://C:\Program Files\Mozilla Firefox/http%3a%2f%2fcygwin.mirrors.hoobly.com%2f/release/pcre/libpcre0/libpcre0-8.02-1.tar.bz2
+2011/06/21 23:36:10 Extracting from file://C:\Program Files\Mozilla Firefox/http%3a%2f%2fcygwin.mirrors.hoobly.com%2f/release/popt/libpopt0/libpopt0-1.6.4-4.tar.bz2
+2011/06/21 23:36:10 Extracting from file://C:\Program Files\Mozilla Firefox/http%3a%2f%2fcygwin.mirrors.hoobly.com%2f/release/readline/libreadline7/libreadline7-6.1.2-2.tar.bz2
+2011/06/21 23:36:10 Extracting from file://C:\Program Files\Mozilla Firefox/http%3a%2f%2fcygwin.mirrors.hoobly.com%2f/release/libsigsegv/libsigsegv2/libsigsegv2-2.10-1.tar.bz2
+2011/06/21 23:36:10 Extracting from file://C:\Program Files\Mozilla Firefox/http%3a%2f%2fcygwin.mirrors.hoobly.com%2f/release/gcc4/libstdc++6/libstdc++6-4.3.4-4.tar.bz2
+2011/06/21 23:36:10 Extracting from file://C:\Program Files\Mozilla Firefox/http%3a%2f%2fcygwin.mirrors.hoobly.com%2f/release/login/login-1.10-10.tar.bz2
+2011/06/21 23:36:10 Extracting from file://C:\Program Files\Mozilla Firefox/http%3a%2f%2fcygwin.mirrors.hoobly.com%2f/release/man/man-1.6f-1.tar.bz2
+2011/06/21 23:36:11 Extracting from file://C:\Program Files\Mozilla Firefox/http%3a%2f%2fcygwin.mirrors.hoobly.com%2f/release/rebase/rebase-3.0.1-1.tar.bz2
+2011/06/21 23:36:11 Extracting from file://C:\Program Files\Mozilla Firefox/http%3a%2f%2fcygwin.mirrors.hoobly.com%2f/release/run/run-1.1.13-1.tar.bz2
+2011/06/21 23:36:11 Extracting from file://C:\Program Files\Mozilla Firefox/http%3a%2f%2fcygwin.mirrors.hoobly.com%2f/release/sed/sed-4.2.1-1.tar.bz2
+2011/06/21 23:36:12 Extracting from file://C:\Program Files\Mozilla Firefox/http%3a%2f%2fcygwin.mirrors.hoobly.com%2f/release/tar/tar-1.25-1.tar.bz2
+2011/06/21 23:36:12 Extracting from file://C:\Program Files\Mozilla Firefox/http%3a%2f%2fcygwin.mirrors.hoobly.com%2f/release/terminfo/terminfo-5.7_20091114-14.tar.bz2
+2011/06/21 23:36:13 Extracting from file://C:\Program Files\Mozilla Firefox/http%3a%2f%2fcygwin.mirrors.hoobly.com%2f/release/terminfo/terminfo0/terminfo0-5.5_20061104-12.tar.bz2
+2011/06/21 23:36:13 Extracting from file://C:\Program Files\Mozilla Firefox/http%3a%2f%2fcygwin.mirrors.hoobly.com%2f/release/texinfo/texinfo-4.13-3.tar.bz2
+2011/06/21 23:36:14 Extracting from file://C:\Program Files\Mozilla Firefox/http%3a%2f%2fcygwin.mirrors.hoobly.com%2f/release/tzcode/tzcode-2010j-1.tar.bz2
+2011/06/21 23:36:22 Extracting from file://C:\Program Files\Mozilla Firefox/http%3a%2f%2fcygwin.mirrors.hoobly.com%2f/release/which/which-2.20-2.tar.bz2
+2011/06/21 23:36:22 Extracting from file://C:\Program Files\Mozilla Firefox/http%3a%2f%2fcygwin.mirrors.hoobly.com%2f/release/xz/xz-5.0.2_20110517-1.tar.bz2
+2011/06/21 23:36:22 Extracting from file://C:\Program Files\Mozilla Firefox/http%3a%2f%2fcygwin.mirrors.hoobly.com%2f/release/zlib/zlib0/zlib0-1.2.5-1.tar.bz2
+2011/06/21 23:36:22 Changing gid back to original
+2011/06/21 23:36:22 running: D:\git\bin\bash.exe --norc --noprofile /etc/postinstall/000-cygwin-post-install.sh
+2011/06/21 23:36:27 running: D:\git\bin\bash.exe --norc --noprofile /etc/postinstall/coreutils.sh
+2011/06/21 23:36:27 running: D:\git\bin\bash.exe --norc --noprofile /etc/postinstall/terminfo.sh
+2011/06/21 23:36:36 running: D:\git\bin\bash.exe --norc --noprofile /etc/postinstall/bash.sh
+2011/06/21 23:36:37 running: D:\git\bin\bash.exe --norc --noprofile /etc/postinstall/terminfo0.sh
+2011/06/21 23:36:48 running: D:\git\bin\bash.exe --norc --noprofile /etc/postinstall/update-info-dir.sh
+2011/06/21 23:36:56 running: D:\git\bin\bash.exe --norc --noprofile /etc/postinstall/base-files-profile.sh
+2011/06/21 23:37:00 running: D:\git\bin\bash.exe --norc --noprofile /etc/postinstall/base-files-mketc.sh
+2011/06/21 23:37:01 running: D:\git\bin\bash.exe --norc --noprofile /etc/postinstall/man.sh
+2011/06/21 23:37:02 Changing gid to Administrators
+2011/06/21 23:50:11 note: Installation Complete
+2011/06/21 23:50:11 Ending cygwin install
